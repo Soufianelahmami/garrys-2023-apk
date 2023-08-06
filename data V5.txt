@@ -31,10 +31,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2570382-1",
-"yandex_inter":"R-M-2570382-3",
-"yandex_native":"R-M-2570382-2",
-"yandex_reward":"R-M-2570382-4",
+"yandex_banner":"R-M-2571834-1",
+"yandex_inter":"R-M-2571834-3",
+"yandex_native":"R-M-2571834-2",
+"yandex_reward":"R-M-2571834-4",
 
 
 
